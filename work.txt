@@ -1,4 +1,4 @@
 branch study
 message2
 message3
-
+git checkout branch_name:버전 이동 , git branch: 내용 확인 git branch something: create branch 
