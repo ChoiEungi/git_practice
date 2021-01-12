@@ -3,3 +3,5 @@ message2
 message3
 git checkout branch_name:버전 이동 , git branch: 내용 확인 git branch something: create branch 
 git branch "branch_id" 내용이 같은 두개의 파일 병합, git add . --> git commit -m "message" "message" branch 생성 
+git backup study
+
